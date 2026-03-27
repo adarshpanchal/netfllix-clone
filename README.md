@@ -71,7 +71,7 @@ Netflix-Clone/
 
 ## 📸 Screenshots
 
-(Screenshot 2026-01-04 at 20.43.10.png)
+(Screenshot_.png)
 
 ---
 
