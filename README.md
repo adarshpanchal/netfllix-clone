@@ -71,7 +71,7 @@ Netflix-Clone/
 
 ## 📸 Screenshots
 
-(Screenshot_.png)
+![Screenshot](Screenshot_.png)
 
 ---
 
